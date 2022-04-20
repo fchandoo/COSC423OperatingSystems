@@ -1,0 +1,87 @@
+Waiting for a job to be assigned
+evidently there is now a job on queue
+Thread-1Doing work 
+Thread-1Doing work 
+Thread-1Doing work 
+Thread-1Doing work 
+Thread-1Doing work 
+Thread-1Doing work 
+Thread-1Doing work 
+Thread-1Doing work 
+Thread-1Doing work 
+Thread-1Doing work 
+Thread-1Doing work 
+Thread-1Doing work 
+Thread-1Doing work 
+Thread-1Doing work 
+Waiting for a job to be assigned
+evidently there is now a job on queue
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-2Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-3Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Thread-4Doing work 
+Gannt Chart
+BurstStart  BurstEnd 	JOB 
+0		3	IDLE
+4		216	1
+216		311	IDLE
+312		622	2
+622		934	3
+934		1246	4
+1246		1246	FINISHED
